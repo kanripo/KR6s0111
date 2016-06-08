@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:45.014351
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:42
 #+TITLE: 日本國承和五年入唐求法目錄
 #+PROPERTY: CBETA_ID T55n2165
 #+PROPERTY: ID KR6s0111
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2165
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0111_T_000-1074a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0111_T_001-1074a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2165¶
-
- 日本國承和五年入唐求法目錄¶
+No. 2165¶
+日本國承和五年入唐求法目錄¶
 ¶
 
 經疏章傳等一百三十漆部二百一卷。曼¶
